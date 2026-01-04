@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="tr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Alışveriş Listesi</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 50px;
+            background-color: #f2f2f2;
+        }
+
+        h1 {
+            color: #333;
+        }
+
+        ul {
+            list-style: none;
+            padding: 0;
+            max-width: 450px;
+            /* Liste genişliğini sınırladık */
+            margin-top: 20px;
+        }
+
+        li {
+            margin: 10px 0;
+            padding: 10px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            max-width: 100%;
+            /* <li> genişliğini kapsayıcıya göre ayarladık */
+            background-color: #fff;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+
+        .item-left {
+            display: flex;
+            align-items: center;
+            flex: 1;
+            /* Sadece ihtiyaç kadar yer kaplar */
+        }
+
+        label {
+            margin-left: 10px;
+        }
+
+        input[type="text"] {
+            padding: 5px;
+            width: 200px;
+            /* Giriş alanını daralttık */
+        }
+
+        button {
+            padding: 5px 10px;
+            margin-left: 5px;
+            cursor: pointer;
+            border: #333 solid 1px;
+            border-radius: 15px;
+            border-radius: 3px;
+        }
+
+        .delete-btn {
+            background-color: #ff4d4d;
+            color: white;
+        }
+    </style>
+</head>
+
+<body>
+
+    <h1>Alışveriş Listesi</h1>
+
+    <input type="text" id="itemInput" placeholder="Ürün ekle...">
+    <button onclick="addItem()">Ekle</button>
+
+    <ul id="shoppingList"></ul>
+
+    <script>
+        function addItem() {
+            const input = document.getElementById('itemInput');
+            const itemText = input.value.trim();
+            if (itemText === "") return;
+
+            const ul = document.getElementById('shoppingList');
+            const li = document.createElement('li');
+
+            const leftDiv = document.createElement('div');
+            leftDiv.className = 'item-left';
+
+            const checkbox = document.createElement('input');
+            checkbox.type = 'checkbox';
+
+            const label = document.createElement('label');
+            label.textContent = itemText;
+            label.style.marginLeft = "10px";
+
+            leftDiv.appendChild(checkbox);
+            leftDiv.appendChild(label);
+
+            const deleteBtn = document.createElement('button');
+            deleteBtn.textContent = "Sil";
+            deleteBtn.className = "delete-btn";
+            deleteBtn.onclick = () => ul.removeChild(li);
+
+            li.appendChild(leftDiv);
+            li.appendChild(deleteBtn);
+            ul.appendChild(li);
+
+            input.value = "";
+        }
+    </script>
+
+</body>
+
+</html>

@@ -1,0 +1,32 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@model List<BasicEfCore.Models.Personal>
+
+<div class="text-center">
+    <table class="table">
+        <thead>
+            <tr>
+                <th scope="col">Personel No</th>
+                <th scope="col">Ad</th>
+                <th scope="col">Soyad</th>
+                <th scope="col">Adres</th>
+                <th scope="col">Maaş</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            @foreach (var i in Model)
+            {
+                <tr>
+                    <td>@i.PersonalNo</td>
+                    <td>@i.Ad</td>
+                    <td>@i.Soyad</td>
+                    <td>@i.Adres</td>
+                    <td>@i.Maas</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

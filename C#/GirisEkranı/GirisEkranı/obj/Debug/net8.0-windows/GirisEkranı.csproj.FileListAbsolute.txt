@@ -1,0 +1,34 @@
+C:\Users\Lenovo\Desktop\C#\GirisEkranı\GirisEkranı\bin\Debug\net8.0-windows\GirisEkranı.exe
+C:\Users\Lenovo\Desktop\C#\GirisEkranı\GirisEkranı\bin\Debug\net8.0-windows\GirisEkranı.deps.json
+C:\Users\Lenovo\Desktop\C#\GirisEkranı\GirisEkranı\bin\Debug\net8.0-windows\GirisEkranı.runtimeconfig.json
+C:\Users\Lenovo\Desktop\C#\GirisEkranı\GirisEkranı\bin\Debug\net8.0-windows\GirisEkranı.dll
+C:\Users\Lenovo\Desktop\C#\GirisEkranı\GirisEkranı\bin\Debug\net8.0-windows\GirisEkranı.pdb
+C:\Users\Lenovo\Desktop\C#\GirisEkranı\GirisEkranı\obj\Debug\net8.0-windows\GirisEkranı.Form1.resources
+C:\Users\Lenovo\Desktop\C#\GirisEkranı\GirisEkranı\obj\Debug\net8.0-windows\GirisEkranı.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\C#\GirisEkranı\GirisEkranı\obj\Debug\net8.0-windows\GirisEkranı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\C#\GirisEkranı\GirisEkranı\obj\Debug\net8.0-windows\GirisEkranı.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\C#\GirisEkranı\GirisEkranı\obj\Debug\net8.0-windows\GirisEkranı.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\C#\GirisEkranı\GirisEkranı\obj\Debug\net8.0-windows\GirisEkranı.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\C#\GirisEkranı\GirisEkranı\obj\Debug\net8.0-windows\GirisEkranı.dll
+C:\Users\Lenovo\Desktop\C#\GirisEkranı\GirisEkranı\obj\Debug\net8.0-windows\refint\GirisEkranı.dll
+C:\Users\Lenovo\Desktop\C#\GirisEkranı\GirisEkranı\obj\Debug\net8.0-windows\GirisEkranı.pdb
+C:\Users\Lenovo\Desktop\C#\GirisEkranı\GirisEkranı\obj\Debug\net8.0-windows\GirisEkranı.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\C#\GirisEkranı\GirisEkranı\obj\Debug\net8.0-windows\ref\GirisEkranı.dll
+C:\Users\Admin\Desktop\Yeni klasör\C#\GirisEkranı\GirisEkranı\bin\Debug\net8.0-windows\GirisEkranı.exe
+C:\Users\Admin\Desktop\Yeni klasör\C#\GirisEkranı\GirisEkranı\bin\Debug\net8.0-windows\GirisEkranı.deps.json
+C:\Users\Admin\Desktop\Yeni klasör\C#\GirisEkranı\GirisEkranı\bin\Debug\net8.0-windows\GirisEkranı.runtimeconfig.json
+C:\Users\Admin\Desktop\Yeni klasör\C#\GirisEkranı\GirisEkranı\bin\Debug\net8.0-windows\GirisEkranı.dll
+C:\Users\Admin\Desktop\Yeni klasör\C#\GirisEkranı\GirisEkranı\bin\Debug\net8.0-windows\GirisEkranı.pdb
+C:\Users\Admin\Desktop\Yeni klasör\C#\GirisEkranı\GirisEkranı\obj\Debug\net8.0-windows\GirisEkranı.Form1.resources
+C:\Users\Admin\Desktop\Yeni klasör\C#\GirisEkranı\GirisEkranı\obj\Debug\net8.0-windows\GirisEkranı.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Yeni klasör\C#\GirisEkranı\GirisEkranı\obj\Debug\net8.0-windows\GirisEkranı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Yeni klasör\C#\GirisEkranı\GirisEkranı\obj\Debug\net8.0-windows\GirisEkranı.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Yeni klasör\C#\GirisEkranı\GirisEkranı\obj\Debug\net8.0-windows\GirisEkranı.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Yeni klasör\C#\GirisEkranı\GirisEkranı\obj\Debug\net8.0-windows\GirisEkranı.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Yeni klasör\C#\GirisEkranı\GirisEkranı\obj\Debug\net8.0-windows\GirisEkranı.sourcelink.json
+C:\Users\Admin\Desktop\Yeni klasör\C#\GirisEkranı\GirisEkranı\obj\Debug\net8.0-windows\GirisEkranı.dll
+C:\Users\Admin\Desktop\Yeni klasör\C#\GirisEkranı\GirisEkranı\obj\Debug\net8.0-windows\refint\GirisEkranı.dll
+C:\Users\Admin\Desktop\Yeni klasör\C#\GirisEkranı\GirisEkranı\obj\Debug\net8.0-windows\GirisEkranı.pdb
+C:\Users\Admin\Desktop\Yeni klasör\C#\GirisEkranı\GirisEkranı\obj\Debug\net8.0-windows\GirisEkranı.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Yeni klasör\C#\GirisEkranı\GirisEkranı\obj\Debug\net8.0-windows\ref\GirisEkranı.dll
+C:\Users\Admin\Desktop\Yeni klasör\C#\GirisEkranı\GirisEkranı\obj\Debug\net8.0-windows\GirisEkranı.Form2.resources

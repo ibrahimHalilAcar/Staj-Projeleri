@@ -1,0 +1,19 @@
+C:\Users\Lenovo\Desktop\C#\GiderGelir\GiderGelir\bin\Debug\net8.0-windows\GiderGelir.exe
+C:\Users\Lenovo\Desktop\C#\GiderGelir\GiderGelir\bin\Debug\net8.0-windows\GiderGelir.deps.json
+C:\Users\Lenovo\Desktop\C#\GiderGelir\GiderGelir\bin\Debug\net8.0-windows\GiderGelir.runtimeconfig.json
+C:\Users\Lenovo\Desktop\C#\GiderGelir\GiderGelir\bin\Debug\net8.0-windows\GiderGelir.dll
+C:\Users\Lenovo\Desktop\C#\GiderGelir\GiderGelir\bin\Debug\net8.0-windows\GiderGelir.pdb
+C:\Users\Lenovo\Desktop\C#\GiderGelir\GiderGelir\obj\Debug\net8.0-windows\GiderGelir.Form1.resources
+C:\Users\Lenovo\Desktop\C#\GiderGelir\GiderGelir\obj\Debug\net8.0-windows\GiderGelir.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\C#\GiderGelir\GiderGelir\obj\Debug\net8.0-windows\GiderGelir.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\C#\GiderGelir\GiderGelir\obj\Debug\net8.0-windows\GiderGelir.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\C#\GiderGelir\GiderGelir\obj\Debug\net8.0-windows\GiderGelir.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\C#\GiderGelir\GiderGelir\obj\Debug\net8.0-windows\GiderGelir.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\C#\GiderGelir\GiderGelir\obj\Debug\net8.0-windows\GiderGelir.dll
+C:\Users\Lenovo\Desktop\C#\GiderGelir\GiderGelir\obj\Debug\net8.0-windows\refint\GiderGelir.dll
+C:\Users\Lenovo\Desktop\C#\GiderGelir\GiderGelir\obj\Debug\net8.0-windows\GiderGelir.pdb
+C:\Users\Lenovo\Desktop\C#\GiderGelir\GiderGelir\obj\Debug\net8.0-windows\GiderGelir.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\C#\GiderGelir\GiderGelir\obj\Debug\net8.0-windows\ref\GiderGelir.dll
+C:\Users\Admin\Desktop\Yeni klasör\C#\GiderGelir\GiderGelir\obj\Debug\net8.0-windows\GiderGelir.dll
+C:\Users\Admin\Desktop\Yeni klasör\C#\GiderGelir\GiderGelir\obj\Debug\net8.0-windows\refint\GiderGelir.dll
+C:\Users\Admin\Desktop\Yeni klasör\C#\GiderGelir\GiderGelir\obj\Debug\net8.0-windows\GiderGelir.pdb

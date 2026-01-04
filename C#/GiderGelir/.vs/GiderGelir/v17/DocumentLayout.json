@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\C#\\GiderGelir\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E34EF43B-2729-40FE-BB0B-8D40D7D438E0}|GiderGelir\\GiderGelir.csproj|c:\\users\\lenovo\\desktop\\c#\\gidergelir\\gidergelir\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E34EF43B-2729-40FE-BB0B-8D40D7D438E0}|GiderGelir\\GiderGelir.csproj|solutionrelative:gidergelir\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E34EF43B-2729-40FE-BB0B-8D40D7D438E0}|GiderGelir\\GiderGelir.csproj|c:\\users\\lenovo\\desktop\\c#\\gidergelir\\gidergelir\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E34EF43B-2729-40FE-BB0B-8D40D7D438E0}|GiderGelir\\GiderGelir.csproj|solutionrelative:gidergelir\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\C#\\GiderGelir\\GiderGelir\\Form1.cs",
+              "RelativeDocumentMoniker": "GiderGelir\\Form1.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\C#\\GiderGelir\\GiderGelir\\Form1.cs",
+              "RelativeToolTip": "GiderGelir\\Form1.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T11:42:23.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\C#\\GiderGelir\\GiderGelir\\Form1.cs",
+              "RelativeDocumentMoniker": "GiderGelir\\Form1.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\C#\\GiderGelir\\GiderGelir\\Form1.cs [Design]",
+              "RelativeToolTip": "GiderGelir\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T11:41:39.928Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
