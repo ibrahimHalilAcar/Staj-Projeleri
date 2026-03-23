@@ -1,0 +1,87 @@
+// Çizgi İzleyen Robot Kodu
+
+// IR sensör pinleri
+int solSensor = 2;
+int sagSensor = 3;
+
+// L298N motor sürücü pinleri
+int IN1 = 8;
+int IN2 = 9;
+int IN3 = 10;
+int IN4 = 11;
+int ENA = 5;
+int ENB = 6;
+
+// Motor hızı
+int hiz = 150;
+
+void setup() {
+  // Sensör pinleri giriş olarak ayarlanır
+  pinMode(solSensor, INPUT);
+  pinMode(sagSensor, INPUT);
+
+  // Motor pinleri çıkış olarak ayarlanır
+  pinMode(IN1, OUTPUT);
+  pinMode(IN2, OUTPUT);
+  pinMode(IN3, OUTPUT);
+  pinMode(IN4, OUTPUT);
+  pinMode(ENA, OUTPUT);
+  pinMode(ENB, OUTPUT);
+
+  // Başlangıçta motor hızları ayarlanır
+  analogWrite(ENA, hiz);
+  analogWrite(ENB, hiz);
+}
+
+void loop() {
+  int solDurum = digitalRead(solSensor);
+  int sagDurum = digitalRead(sagSensor);
+
+  // Sensörlerin 0 veya 1 vermesi kullanılan modüle göre değişebilir
+  // Çoğu modülde siyah çizgide 0, beyaz zeminde 1 okunur
+
+  if (solDurum == 1 && sagDurum == 1) {
+    // İki sensör de beyaz zemini görüyor -> düz git
+    ileriGit();
+  }
+  else if (solDurum == 0 && sagDurum == 1) {
+    // Sol sensör çizgiyi gördü -> sola dön
+    solaDon();
+  }
+  else if (solDurum == 1 && sagDurum == 0) {
+    // Sağ sensör çizgiyi gördü -> sağa dön
+    sagaDon();
+  }
+  else if (solDurum == 0 && sagDurum == 0) {
+    // İki sensör de çizgiyi gördü -> dur
+    dur();
+  }
+}
+
+void ileriGit() {
+  digitalWrite(IN1, HIGH);
+  digitalWrite(IN2, LOW);
+  digitalWrite(IN3, HIGH);
+  digitalWrite(IN4, LOW);
+}
+
+void solaDon() {
+  digitalWrite(IN1, LOW);
+  digitalWrite(IN2, LOW);
+  digitalWrite(IN3, HIGH);
+  digitalWrite(IN4, LOW);
+}
+
+void sagaDon() {
+  digitalWrite(IN1, HIGH);
+  digitalWrite(IN2, LOW);
+  digitalWrite(IN3, LOW);
+  digitalWrite(IN4, LOW);
+}
+
+void dur() {
+  digitalWrite(IN1, LOW);
+  digitalWrite(IN2, LOW);
+  digitalWrite(IN3, LOW);
+  digitalWrite(IN4, LOW);
+}
